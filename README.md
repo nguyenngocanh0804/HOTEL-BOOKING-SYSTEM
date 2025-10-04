@@ -1,7 +1,7 @@
 # HOTEL-BOOKING-SYSTEM
-# HỌ VÀ TÊN: NGUYỄN NGỌC ÁNH
+# Họ và tên: Nguyễn Ngọc Ánh
 # MSSV: N23DCPT005
-# LỚP: D23CQPTTK01-N
+# Lớp: D23CQPTTK01-N
 LINK JIRA:https://student-team-dycpkdi5.atlassian.net/jira/software/projects/ANH123/boards/37  
 Hotel Booking System – Lab 02
 Mục tiêu dự án
