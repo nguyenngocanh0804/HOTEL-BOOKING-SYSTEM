@@ -1,4 +1,5 @@
 # HOTEL-BOOKING-SYSTEM
+LINK JIRA:https://student-team-dycpkdi5.atlassian.net/jira/software/projects/ANH123/boards/37  
 Hotel Booking System – Lab 02
 Mục tiêu dự án
 
